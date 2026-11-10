@@ -1,0 +1,13 @@
+package com.ktchn.backend;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class KitchenBackendApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
